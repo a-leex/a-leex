@@ -1,4 +1,4 @@
---👋 Hi, I’m a-leex.
+--👋 Hi, I’m Alex.
 -
 --📖 I like to learn something new, I like to program.
 -
