@@ -1,8 +1,9 @@
---👋 Hi, I’m Alex.
+--👋 Olá, sou o Alex.
 -
---📖 I like to learn something new, I like to program.
+--📖  Gosto de aprender algo novo, estou estudando programação.
 -
---👨‍💻 Here will be some projects.
+--👨‍💻 Aqui estarão alguns projetos.
+--O segredo para vencer é continuar seguindo em frente enfrentando todos os obstáculos do caminho.
 - 
 <div align="center">
   <a href="https://github.com/a-leex">
