@@ -4,7 +4,7 @@
 -
 --👨‍💻 Aqui estarão alguns projetos. 
 -
---O segredo para vencer é continuar seguindo em frente enfrentando todos os obstáculos do caminho.
+--"O segredo para vencer é continuar seguindo em frente enfrentando todos os obstáculos do caminho".
 - 
 <div align="center">
   <a href="https://github.com/a-leex">
